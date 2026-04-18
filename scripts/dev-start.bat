@@ -14,7 +14,7 @@ if %errorlevel% neq 0 (
 )
 
 echo Starting all services...
-concurrently ^
+concurrently ^ 
     "cd services/api-gateway && npm run dev" ^
     "cd services/auth-service && npm run dev" ^
     "cd services/user-service && npm run dev" ^
