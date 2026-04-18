@@ -11,5 +11,5 @@ export default function Loading() {
       </div>
       <Skeleton className="h-20 w-full mt-8" />
     </div>
-  )
+  ) 
 }
