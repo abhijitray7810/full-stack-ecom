@@ -8,7 +8,7 @@ A production-grade, microservices-based e-commerce platform built with Node.js (
 ![Redis](https://img.shields.io/badge/Redis-7.0-red?style=flat-square&logo=redis)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
----
+--- 
 
 ## 📋 Table of Contents
 
