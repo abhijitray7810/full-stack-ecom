@@ -4,7 +4,7 @@ echo ==========================================
 echo PodPlate Platform - Clean Reinstall Script
 echo ==========================================
 echo.
-
+ 
 REM Get the project root directory
 set "PROJECT_ROOT=%~dp0.."
 cd /d "%PROJECT_ROOT%"
