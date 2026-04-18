@@ -1,6 +1,6 @@
 # PodPlate Platform
 
-A production-grade, microservices-based e-commerce platform built with Node.js (ESM) and Next.js 14. Features secure authentication, API gateway routing, idempotent order handling, and comprehensive observability. 
+A production-grade, microservices-based e-commerce platform built with Node.js (ESM) and Next.js 14. Features secure authentication, API gateway routing, idempotent order handling, and comprehensive observability.  
 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js) 
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
