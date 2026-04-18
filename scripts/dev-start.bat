@@ -4,7 +4,7 @@ echo Starting PodPlate Platform services...
 echo.
 
 set "PROJECT_ROOT=%~dp0.."
-cd /d "%PROJECT_ROOT%"
+cd /d "%PROJECT_ROOT%" 
 
 REM Check if concurrently is installed globally or locally
 where concurrently >nul 2>&1
