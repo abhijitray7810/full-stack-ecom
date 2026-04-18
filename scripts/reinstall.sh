@@ -1,7 +1,7 @@
 #!/bin/bash
 # Clean and reinstall all dependencies for PodPlate Platform
 
-set -e
+set -e 
 
 PROJECT_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$PROJECT_ROOT"
